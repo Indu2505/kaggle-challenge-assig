@@ -51,11 +51,11 @@ Tested models:
 - XGBoost Classifier    Evaluation Metric: **Accuracy Score**
 
 	Model	Validation Accuracy
-2	Random Forest	0.793560
-4	XGBoost	0.784934
+2	Random Forest    	0.793560
+4	XGBoost	                0.784934
 3	Support Vector Machine	0.774008
 0	Logistic Regression	0.772858
-1	Decision Tree	0.741806
+1	Decision Tree	        0.741806
 
  **XGBoost** performed best and was selected for final tuning and prediction.
 
